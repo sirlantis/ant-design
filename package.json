@@ -101,7 +101,7 @@
     "@types/prop-types": "^15.5.6",
     "@types/react": "~16.8.1",
     "@types/react-dom": "^16.0.11",
-    "@types/react-intl": "^2.3.14",
+    "@types/react-intl": "^3.0.0",
     "@types/warning": "^3.0.0",
     "@yesmeck/offline-plugin": "^5.0.5",
     "ansi-styles": "^3.2.1",
